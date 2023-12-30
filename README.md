@@ -2,7 +2,7 @@
 
 github guide의 명령어들을 순차적으로 실행해보며, 각 명령어가 어떤 일을 하고 있는지 알아보기.
 
-# Commmand Line
+# Command Line
 
 ```
 echo # gitPractice >> README.md
